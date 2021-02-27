@@ -1,5 +1,5 @@
 
-# Hello, I'm Jessica Nnebedum, a buzzing Junior Frontend Developer
+# Hello, I'm Jessica, a buzzing Junior Frontend Developer
 
 - 📐 A 24 year old Architect (Bsc.) who is looking to switch to a more stable career 
 - ⚡ Staying curious and learning-by-doing is what I do best
