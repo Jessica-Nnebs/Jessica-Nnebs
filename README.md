@@ -1,8 +1,5 @@
 ## Hello, I'm Jessica Nnebedum 👋
-## A buzzing Junior Frontend Developer in the making 
-
-
-Here are some ideas to get you started:
+# A buzzing Junior Frontend Developer in the making 
 
 - 📐 A 24 year old Architect (Bsc.) who is looking to switch to a more stable career 
 - ⚡ Staying curious and learning-by-doing is what I do best
@@ -10,11 +7,11 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Become more confident with MERN-Stack 
 - 🌱 Fun fact: I'm a handy gal who makes pottery and propagates plants for fun.
 
+
 ###📥 Download my CV:
 
 https://drive.google.com/file/d/1Oj5ucZH4n-w3VBfjeY9pqAnFDs-9iZ76/view?usp=sharing
 
-<br />
 
 ### Languages and Tools:
 
