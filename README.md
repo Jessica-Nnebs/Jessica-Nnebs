@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Staying curious and learning-by-doing is what I do best
 - 🐱‍💻 Currently working on a Login / Registration application with MERN Stack
 - 🥅 2021 Goals: Become more confident with MERN-Stack 
-- 📫 Download my CV: https://drive.google.com/drive/my-drive
+- 📫 Download my CV: https://drive.google.com/file/d/1Oj5ucZH4n-w3VBfjeY9pqAnFDs-9iZ76/view?usp=sharing
 - 🌱 Fun fact: I'm a handy gal who makes pottery and propagates plants for fun.
 
 ## Connect with me:
