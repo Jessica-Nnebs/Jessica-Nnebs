@@ -8,13 +8,11 @@ Here are some ideas to get you started:
 - ⚡ Staying curious and learning-by-doing is what I do best
 - 🐱‍💻 Currently working on a Login / Registration application with MERN Stack
 - 🥅 2021 Goals: Become more confident with MERN-Stack 
-- 📫 Download my CV: https://drive.google.com/file/d/1Oj5ucZH4n-w3VBfjeY9pqAnFDs-9iZ76/view?usp=sharing
 - 🌱 Fun fact: I'm a handy gal who makes pottery and propagates plants for fun.
 
-## Connect with me:
+##📥 Download my CV:
 
-<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/jessica-nnebedum-0150a2132/"/>
-<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
+https://drive.google.com/file/d/1Oj5ucZH4n-w3VBfjeY9pqAnFDs-9iZ76/view?usp=sharing
 
 <br />
 
