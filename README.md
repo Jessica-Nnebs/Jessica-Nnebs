@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Become more confident with MERN-Stack 
 - 🌱 Fun fact: I'm a handy gal who makes pottery and propagates plants for fun.
 
-##📥 Download my CV:
+###📥 Download my CV:
 
 https://drive.google.com/file/d/1Oj5ucZH4n-w3VBfjeY9pqAnFDs-9iZ76/view?usp=sharing
 
