@@ -4,7 +4,7 @@
 - 📐 A 24 year old Architect (Bsc.) who is looking to switch to a more stable career 
 - ⚡ Staying curious and learning-by-doing is what I do best
 - 🐱‍💻 Currently working on a Login / Registration application with MERN Stack
-- 🥅 2021 Goals: Become more confident with MERN-Stack 
+- 🥅 2021 Goal is to become more confident with MERN-Stack 
 - 🌱 Fun fact: I'm a handy gal who makes pottery and propagates plants for fun.
 
 
