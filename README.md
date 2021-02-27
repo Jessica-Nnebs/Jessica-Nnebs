@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
-[<img align="left" alt="jessica-nnebedum-0150a2132 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="codeSTACKr | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />]
+<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 
 <br />
 
