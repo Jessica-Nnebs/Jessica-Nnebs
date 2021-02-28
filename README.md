@@ -13,8 +13,8 @@
 
 ### 📥 Download my CV:
 
-**German:** https://drive.google.com/file/d/1uG_WqHgdNbu6KvV_nGeDOHbpVStM470v/view?usp=sharing <br>
-**English:** https://drive.google.com/file/d/1gcnVIPtruYyzqFIqV4IWBLUfpxc7B48p/view?usp=sharing
+**German:** https://drive.google.com/file/d/18UbN5dCgouTxdWiIj7u9k4wEaaKtOVgp/view?usp=sharing <br>
+**English:** https://drive.google.com/file/d/1RcmrCMR4bElyjzT2VdpY1hwHZCG0b3l0/view?usp=sharing
 
 <br>
 
