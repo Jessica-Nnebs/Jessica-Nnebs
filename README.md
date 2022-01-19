@@ -1,19 +1,13 @@
 
 # Hello, I'm Jessica, a buzzing Junior Frontend Developer
 
-- 📐 A 24 year old Architect (Bsc.) and Junior Software Developer
+
 - ⚡ Staying curious and learning-by-doing is what I do best
 - 🐱‍💻 Currently working on my Website and some awsome side Projects
-- 🥅 2021 Goal is to become more confident with MERN-Stack 
+- 🥅 2022 Goal is to advance my UI/UX Design Skills
 - 🌱 Fun fact: I'm a handy gal who makes pottery and propagates plants for fun.
 
 
-<br>
-
-### 📥 Download my CV:
-
-**German:** https://drive.google.com/file/d/18UbN5dCgouTxdWiIj7u9k4wEaaKtOVgp/view?usp=sharing <br>
-**English:** https://drive.google.com/file/d/1RcmrCMR4bElyjzT2VdpY1hwHZCG0b3l0/view?usp=sharing
 
 <br>
 
